@@ -16,4 +16,4 @@ It allows users to create playlists, play/pause songs, navigate through the play
 - Pygame
 - Mutagen
 
-Hope you Enjoy :D
+Hope you Enjoy  :D
